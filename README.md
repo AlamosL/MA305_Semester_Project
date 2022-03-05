@@ -9,3 +9,5 @@ this project will yield a Python algorithm for precise object detection in an im
 In these files we have attempted to pull in a large file containing images which deemed successful. We have also established how to open
 and close the camera for viewing purposes. Finally, some research was conducted for how we can effectively use machine learning and nuetral
 networks in our code. 
+
+https://github.com/AlamosL/MA305_Semester_Project.git
