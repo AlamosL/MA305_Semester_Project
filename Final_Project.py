@@ -12,5 +12,10 @@ Description: Image Processing and Recognition - We can recognize objects within 
 """
 
 #importing object databases
-
 #Currently files are too large to pull into GitHub
+
+# Identify the Camera and open it
+Subprocess.run('name of camera', shell=True)
+
+# Close the Camera
+Subprocess.run('Taskhill /IM name of camera /F', shell=True)
