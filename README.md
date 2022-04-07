@@ -7,7 +7,11 @@ to the object library. All of the objects within the frame will be able to be id
 this project will yield a Python algorithm for precise object detection in an image. 
 
 In these files we have attempted to pull in a large file containing images which deemed successful. We have also established how to open
-and close the camera for viewing purposes. Finally, some research was conducted for how we can effectively use machine learning and nuetral
-networks in our code. 
+and close the camera for viewing purposes.
+
+Midterm Update: We began the machine learning coding process by incorporating Tensorflow into our code. Due to the complex nature of the 
+                object reconition algorithim, the use of the Tensorflow custom python enviroment was essential in creating a model for the 
+                software to decipher images. OpenCV was incorpoated to access the computer webcam which provides a live image feed to be compared
+                to the machine learned data. This is what the computer will use to sift through determinate and indeterminate images. 
 
 https://github.com/AlamosL/MA305_Semester_Project.git
