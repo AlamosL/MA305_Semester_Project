@@ -12,6 +12,10 @@ and close the camera for viewing purposes.
 Midterm Update: We began the machine learning coding process by incorporating Tensorflow into our code. Due to the complex nature of the 
                 object reconition algorithim, the use of the Tensorflow custom python enviroment was essential in creating a model for the 
                 software to decipher images. OpenCV was incorpoated to access the computer webcam which provides a live image feed to be compared
-                to the machine learned data. This is what the computer will use to sift through determinate and indeterminate images. 
+                to the machine learned data. This is what the computer will use to sift through determinate and indeterminate images.
+                
+Final Update: Static image object detection was sucessful using TensorFlow in Python. Models were created but not utilized due to hardware constraints
+              for providing a live feed. Accuracy level potentially needs improvement in order to output correct object detection to the user. 
+              Overall, the code deemed sucessful for static image object detection and produced correct outputs with varying accuracy. 
 
 https://github.com/AlamosL/MA305_Semester_Project.git
